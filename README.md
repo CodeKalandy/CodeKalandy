@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Salut, je suis Bernard Thiery</h1>
+  <h3>🚀 Technicien Système et Réseau | Passionné par l'Infrastructure & la Cybersécurité</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/bernard-thiery/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:bernardthiery51370@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<!--
-**CodeKalandy/CodeKalandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cite_start]Étudiant en 2ème année de BTS SIO (option SISR), j'évolue actuellement en tant que Technicien Informatique au sein d'un environnement critique[cite: 167]. [cite_start]J'allie une forte rigueur technique sur les infrastructures réseaux et systèmes à un sens aigu du service, développé lors de mes expériences précédentes[cite: 167]. 
+
+- [cite_start]🔭 Je travaille actuellement au **Centre hospitalier universitaire (CHU) de Reims** sur la gestion des accès serveurs (Bastion Wallix) et le déploiement d'équipements[cite: 167].
+- [cite_start]🌱 Je prépare activement la certification **Cisco CCNA 200-301**[cite: 168].
+- 🎯 **Mon objectif :** Évoluer vers l'administration d'infrastructures complexes, l'automatisation et les pratiques DevOps.
+- [cite_start]⚡ **Passions :** Escalade, réalisation de courts métrages et piano[cite: 168].
+
+---
+
+## 🛠️ Stack Technique & Outils
+
+### 🐧 Systèmes & Virtualisation
+<p align="left">
+  [cite_start]<img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /> [cite: 167]
+  [cite_start]<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" /> [cite: 167]
+  [cite_start]<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" /> [cite: 168]
+  [cite_start]<img src="https://img.shields.io/badge/VMware-147BA0?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /> [cite: 167]
+</p>
+
+### 🌐 Réseaux & Cybersécurité
+<p align="left">
+  [cite_start]<img src="https://img.shields.io/badge/Cisco_CLI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> [cite: 167]
+  [cite_start]<img src="https://img.shields.io/badge/Wallix_Bastion-000000?style=for-the-badge&logo=security&logoColor=white" alt="Wallix" /> [cite: 167]
+  [cite_start]<img src="https://img.shields.io/badge/Fortinet-C82127?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" /> [cite: 168]
+  [cite_start]<img src="https://img.shields.io/badge/TCP/IP_&_VLANs-4D4D4D?style=for-the-badge" alt="TCP/IP" /> [cite: 167]
+</p>
+
+### ⚙️ WebOps, Scripting & Support
+<p align="left">
+  [cite_start]<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" /> [cite: 168]
+  [cite_start]<img src="https://img.shields.io/badge/Apache_2.4-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" /> [cite: 140]
+  [cite_start]<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /> [cite: 140]
+  [cite_start]<img src="https://img.shields.io/badge/GLPI-E30613?style=for-the-badge&logo=glpi&logoColor=white" alt="GLPI" /> [cite: 168]
+</p>
+
+---
+
+## 🚀 Projets d'Infrastructure & WebOps
+
+| Projet | Description | Technologies |
+| :--- | :--- | :--- |
+| 🖥️ **CyberCliker (Infra)** | Pilotage et déploiement d'un environnement virtuel sécurisé. [cite_start]Mise en place de **Proxmox Virtual Environment (PVE)** et configuration des sauvegardes résilientes via **Proxmox Backup Server (PBS)**[cite: 168]. | `Proxmox VE`, `PBS`, `Linux` |
+| 🌐 **Bernard Quizz** | Administration, sécurisation et déploiement en production d'une application web temps réel. [cite_start]Configuration stricte du `.htaccess`, gestion des `.env` et protection applicative (PDO, bcrypt) sur hébergement mutualisé[cite: 140, 147, 151]. | `Apache`, `MariaDB`, `PHP 8.4` |
+
+---
+
+## 📜 Certifications
+
+* [cite_start]🛡️ **Fortinet NSE 1 - 2 - 3** [cite: 168]
+* [cite_start]⏳ **Cisco CCNA 200-301** *(En préparation)* [cite: 168]
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeKalandy&show_icons=true&theme=transparent&hide_border=true&title_color=1BA0D7&text_color=ffffff&icon_color=1BA0D7" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKalandy&theme=transparent&hide_border=true&title_color=1BA0D7&text_color=ffffff&icon_color=1BA0D7" alt="GitHub Streak" />
+</div>
+
