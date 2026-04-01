@@ -15,7 +15,7 @@
 
 ## À propos de moi
 
-Étudiant en 2ème année de BTS SIO (option SISR), j'évolue actuellement en tant que Technicien Informatique au sein d'un environnement critique. J'allie une forte rigueur technique sur les infrastructures réseaux et systèmes à un sens aigu du service, développé lors de mes expériences précédentes. 
+Étudiant en 2ème année de BTS SIO (option SISR), j'évolue actuellement en tant que Technicien Informatique au sein d'un environnement critique.
 
 -  Je prépare activement la certification **Cisco CCNA 200-301**.
 -  **Mon objectif :** Évoluer vers l'administration d'infrastructures complexes, l'automatisation et les pratiques DevOps.
