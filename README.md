@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Salut, je suis Bernard Thiery</h1>
-  <h3>🚀 Technicien Système et Réseau | Passionné par l'Infrastructure & la Cybersécurité</h3>
+  <h3> Technicien Système et Réseau | Passionné par l'Infrastructure & la Cybersécurité</h3>
   <p>
     <a href="https://www.linkedin.com/in/bernard-thiery/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,20 +13,19 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
 Étudiant en 2ème année de BTS SIO (option SISR), j'évolue actuellement en tant que Technicien Informatique au sein d'un environnement critique. J'allie une forte rigueur technique sur les infrastructures réseaux et systèmes à un sens aigu du service, développé lors de mes expériences précédentes. 
 
-- 🔭 Je travaille actuellement au **Centre hospitalier universitaire (CHU) de Reims** sur la gestion des accès serveurs (Bastion Wallix) et le déploiement d'équipements.
-- 🌱 Je prépare activement la certification **Cisco CCNA 200-301**.
-- 🎯 **Mon objectif :** Évoluer vers l'administration d'infrastructures complexes, l'automatisation et les pratiques DevOps.
-- ⚡ **Passions :** Escalade, réalisation de courts métrages et piano.
+-  Je prépare activement la certification **Cisco CCNA 200-301**.
+-  **Mon objectif :** Évoluer vers l'administration d'infrastructures complexes, l'automatisation et les pratiques DevOps.
+-  **Passions :** Escalade, réalisation de courts métrages et piano.
 
 ---
 
-## 🛠️ Stack Technique & Outils
+## Stack Technique & Outils
 
-### 🐧 Systèmes & Virtualisation
+### Systèmes & Virtualisation
 <p align="left">
   <img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
@@ -52,23 +51,23 @@
 
 ---
 
-## 🚀 Projets d'Infrastructure & WebOps
+## Projets d'Infrastructure & WebOps
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
-| 🖥️ **CyberCliker (Infra)** | Pilotage et déploiement d'un environnement virtuel sécurisé. Mise en place de **Proxmox Virtual Environment (PVE)** et configuration des sauvegardes résilientes via **Proxmox Backup Server (PBS)**. | `Proxmox VE`, `PBS`, `Linux` |
-| 🌐 **Bernard Quizz** | Administration, sécurisation et déploiement en production d'une application web temps réel. Configuration stricte du `.htaccess`, gestion des `.env` et protection applicative (PDO, bcrypt) sur hébergement mutualisé. | `Apache`, `MariaDB`, `PHP 8.4` |
+|  **CyberCliker (Infra)** | Pilotage et déploiement d'un environnement virtuel sécurisé. Mise en place de **Proxmox Virtual Environment (PVE)** et configuration des sauvegardes résilientes via **Proxmox Backup Server (PBS)**. | `Proxmox VE`, `PBS`, `Linux` |
+|  **Bernard Quizz** | Administration, sécurisation et déploiement en production d'une application web temps réel. Configuration stricte du `.htaccess`, gestion des `.env` et protection applicative (PDO, bcrypt) sur hébergement mutualisé. | `Apache`, `MariaDB`, `PHP 8.4` |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-* 🛡️ **Fortinet NSE 1 - 2 - 3**
-* ⏳ **Cisco CCNA 200-301** *(En préparation)*
+*  **Fortinet NSE 1 - 2 - 3**
+*  **Cisco CCNA 200-301** *(En préparation)*
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeKalandy&show_icons=true&theme=transparent&hide_border=true&title_color=1BA0D7&text_color=ffffff&icon_color=1BA0D7" alt="GitHub Stats" />
